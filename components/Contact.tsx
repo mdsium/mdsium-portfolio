@@ -403,7 +403,7 @@ export default function Contact() {
                         ) : (
                           <>
                             <Send className="w-4 h-4" />
-                            Send Message to {recipientEmail}
+                            Send Message
                           </>
                         )}
                       </button>
