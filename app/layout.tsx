@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Md. Sium | Jr. Software Engineer | React.js, Next.js, TypeScript',
+  title: 'Md. Sium |  Software Engineer',
   description: 'Personal portfolio of Md. Sium, Jr. Software Engineer based in Dhaka, Bangladesh. Specializing in React.js, Next.js, TypeScript, Tailwind CSS, and REST API integration.',
 };
 

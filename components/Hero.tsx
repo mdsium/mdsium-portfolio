@@ -140,10 +140,8 @@ export default function Hero() {
               ref={subTitleRef}
               className="text-lg sm:text-xl md:text-2xl font-semibold text-gray-300 font-mono tracking-tight mb-4"
             >
-              Jr. Software Engineer (Frontend)
-              <span className="block sm:inline sm:ml-2 text-sm sm:text-base text-emerald-400 font-normal">
-                React.js · Next.js · TypeScript
-              </span>
+              Software Engineer 
+              
             </p>
 
             {/* Short Bio Introduction */}
@@ -151,7 +149,7 @@ export default function Hero() {
               ref={textRef}
               className="text-gray-400 text-sm sm:text-base md:text-lg max-w-xl leading-relaxed mb-8"
             >
-              Recent Computer Science graduate with hands-on experience in frontend and full-stack web development through academic, internship, and personal projects. Specializing in building reusable components, responsive user interfaces, and API-driven features.
+              Computer Science graduate with hands-on experience in frontend and full-stack web development through academic, internship, and personal projects. Specializing in building reusable components, responsive user interfaces, and API-driven features.
             </p>
 
             {/* Interactive Action Buttons */}
@@ -223,7 +221,7 @@ export default function Hero() {
                   <span className="text-gray-500 block">{"// Software Engineer Bio"}</span>
                   <span className="text-teal-300">const</span>{" engineer = {"}<br />
                     <span className="pl-3 text-white">name:</span> <span className="text-emerald-300">&quot;Md. Sium&quot;</span>,<br />
-                    <span className="pl-3 text-white">role:</span> <span className="text-emerald-300">&quot;Jr. Frontend Engineer&quot;</span>,<br />
+                    <span className="pl-3 text-white">role:</span> <span className="text-emerald-300">&quot;Software Engineer&quot;</span>,<br />
                     <span className="pl-3 text-white">education:</span> <span className="text-teal-200">&quot;BSc in CSE (Green Univ)&quot;</span>,<br />
                     <span className="pl-3 text-white">internship:</span> <span className="text-teal-200">&quot;Zensoft Lab&quot;</span>,<br />
                     <span className="pl-3 text-white">stack:</span> [<span className="text-emerald-300">&quot;React&quot;</span>, <span className="text-emerald-300">&quot;Next.js&quot;</span>, <span className="text-emerald-300">&quot;TS&quot;</span>],<br />
