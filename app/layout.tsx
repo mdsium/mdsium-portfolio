@@ -15,8 +15,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Md. Sium | Jr. Software Engineer (Frontend) | React.js, Next.js, TypeScript',
-  description: 'Personal portfolio of Md. Sium, Jr. Software Engineer (Frontend) based in Dhaka, Bangladesh. Specializing in React.js, Next.js, TypeScript, Tailwind CSS, and REST API integration.',
+  title: 'Md. Sium | Jr. Software Engineer | React.js, Next.js, TypeScript',
+  description: 'Personal portfolio of Md. Sium, Jr. Software Engineer based in Dhaka, Bangladesh. Specializing in React.js, Next.js, TypeScript, Tailwind CSS, and REST API integration.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
